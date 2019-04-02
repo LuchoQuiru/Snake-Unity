@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-02T11:08:18.999-03:00
+  initializedAtString: 2019-04-02T11:07:12.678-03:00
+  log:
+  - commitID: 5f417afc6bbc39bd071d2238f9ac9561293b8588
+    mergeA: 
+    mergeB: 
+    authorName: lucho
+    authorEmail: luchoburato@gmail.com
+    commitEmail: luchoburato@gmail.com
+    commitName: lucho
+    summary: Initial commit
+    description: 
+    timeString: 2019-04-02T10:58:12.000-03:00
+    commitTimeString: 2019-04-02T10:58:12.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\julie\Desktop\lucho\borrador\project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\julie\Desktop\lucho\borrador\project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\julie\Desktop\lucho\borrador\project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
